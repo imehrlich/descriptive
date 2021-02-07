@@ -62,7 +62,7 @@ lastN <- function(n, data = movie){
 }
 
 # Plotting Functions
-plotGenre <- function(data = movie, output = "figures/movieGenre.png"){
+plotGenre <- function(data = movie, output = "movie/figures/movieGenre.png"){
   
   freq <- colSums(data[,14:32])
   names <- names(freq)
@@ -84,7 +84,7 @@ plotGenre <- function(data = movie, output = "figures/movieGenre.png"){
   return(plot)
 }
 
-plotLanguage <- function(data = movie, output = "figures/movieLanguage.png"){
+plotLanguage <- function(data = movie, output = "movie/figures/movieLanguage.png"){
   
   data <- data[complete.cases(data$language),]
   
@@ -102,7 +102,7 @@ plotLanguage <- function(data = movie, output = "figures/movieLanguage.png"){
   return(plot)
 }
 
-plotMPAA <- function(data = movie, output = "figures/movieMPAA.png"){
+plotMPAA <- function(data = movie, output = "movie/figures/movieMPAA.png"){
   
   plot <- ggplot(data, aes(x = mpaa)) +
     geom_bar(fill = "lightblue", color = "black") +
@@ -115,7 +115,7 @@ plotMPAA <- function(data = movie, output = "figures/movieMPAA.png"){
   return(plot)
 }
 
-plotRatings <- function(data = movie, output = "figures/movieRating.png"){
+plotRatings <- function(data = movie, output = "movie/figures/movieRating.png"){
   imdb <-  ggplot(data, aes(x = imdbRating)) +
     geom_histogram(fill = "lightblue", color = "black"
                    , bins = 20, na.rm = TRUE) +
@@ -148,7 +148,7 @@ plotRatings <- function(data = movie, output = "figures/movieRating.png"){
   
 }
 
-plotRuntime <- function(data = movie, output = "figures/movieRuntime.png"){
+plotRuntime <- function(data = movie, output = "movie/figures/movieRuntime.png"){
   
   plot <- ggplot(data, aes(x = runtime)) +
     geom_histogram(fill = "lightblue", color = "black", bins = 20) +
@@ -162,7 +162,7 @@ plotRuntime <- function(data = movie, output = "figures/movieRuntime.png"){
   return(plot)
 }
 
-plotTopActor <- function(data = movie, top = 10, output = "figures/movieActors.png"){
+plotTopActor <- function(data = movie, top = 10, output = "movie/figures/movieActors.png"){
   
   actors <- c(as.character(data$firstCredit), as.character(data$secondCredit))
   
@@ -185,7 +185,7 @@ plotTopActor <- function(data = movie, top = 10, output = "figures/movieActors.p
   return(plot)
 }
 
-plotTopDirector <- function(data = movie, top = 10, output = "figures/movieDirectors.png"){
+plotTopDirector <- function(data = movie, top = 10, output = "movie/figures/movieDirectors.png"){
   
   table <- sort(table(data$director), decreasing = TRUE)[1:top]
   subset <- data.frame(table)
@@ -206,7 +206,7 @@ plotTopDirector <- function(data = movie, top = 10, output = "figures/movieDirec
   return(plot)
 }
 
-plotYear <- function(data = movie, output = "figures/movieYear.png"){
+plotYear <- function(data = movie, output = "movie/figures/movieYear.png"){
   
   plot <- ggplot(data, aes(x = year)) +
     geom_bar(fill = "lightblue", color = "black") +
@@ -268,7 +268,7 @@ getLegend<-function(plot){
 }
 
 # Series Plots
-plotSeriesRating <- function(data = series, output = "figures/seriesRating.png"){
+plotSeriesRating <- function(data = series, output = "movie/figures/seriesRating.png"){
   
   imdb <- ggplot(data, aes(x = order, y = imdbRating)) +
     geom_line(aes(color = series, linetype = series), size = 1, linetype = "solid") +
@@ -313,7 +313,7 @@ plotSeriesRating <- function(data = series, output = "figures/seriesRating.png")
   ggsave(file=output, plots, height = 24, width = 24, units = "cm")
 }
 
-plotRemakesRating <- function(data = remakes, output = "figures/remakesRating.png"){
+plotRemakesRating <- function(data = remakes, output = "movie/figures/remakesRating.png"){
   
   imdb <- ggplot(data, aes(x = order, y = imdbRating)) +
     geom_line(aes(color = remakes, linetype = remakes), size = 1, linetype = "solid") +
