@@ -79,7 +79,7 @@ plotGenre <- function(data = movie, output = "movie/figures/movieGenre.png"){
     theme_minimal() +
     theme(plot.title = element_text(hjust = 0.5))
   
-  ggsave(output, scale = 1, height = 20, width = 30, unit = "cm")
+  ggsave(output, scale = 0.4, height = 50, width = 75, unit = "cm")
   
   return(plot)
 }
