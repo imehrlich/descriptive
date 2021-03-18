@@ -8,9 +8,9 @@ Men in Black 2,Men in Black,NA,2002,PG-13,90,English,Barry Sonnenfeld,Tommy Lee 
 Men in Black 3,Men in Black,NA,2012,PG-13,106,English,Barry Sonnenfeld,Will Smith,Tommy Lee Jones,0.68,0.68,0.58,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 The Breakfast Club,NA,NA,1985,R,97,English,John Hughes,Emilio Estevez,Judd Nelson,0.78,0.89,0.66,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
 Fight Club,NA,NA,1999,R,151,English,David Fincher,Brad Pitt,Edward Norton,0.88,0.79,0.66,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
-The Matrix,The Matrix,NA,1999,R,150,English,The Wachowski Brothers,Keanu Reeves,Laurence Fishburne,0.87,0.88,0.73,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
-The Matrix Reloaded,The Matrix,NA,2003,R,138,English,The Wachowski Brothers,Keanu Reeves,Laurence Fishburne,0.72,0.73,0.62,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
-The Matrix Revolutions,The Matrix,NA,2003,R,129,English,The Wachowski Brothers,Keanu Reeves,Laurence Fishburne,0.68,0.35,0.47,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+The Matrix,The Matrix,NA,1999,R,150,English,The Wachowskis,Keanu Reeves,Laurence Fishburne,0.87,0.88,0.73,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+The Matrix Reloaded,The Matrix,NA,2003,R,138,English,The Wachowskis,Keanu Reeves,Laurence Fishburne,0.72,0.73,0.62,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+The Matrix Revolutions,The Matrix,NA,2003,R,129,English,The Wachowskis,Keanu Reeves,Laurence Fishburne,0.68,0.35,0.47,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
 Everybody Loves Somebody,NA,NA,2017,PG-13,102,Spanish,Catalina Aguilar Mastretta,Karla Souza,Jose Maria Yazpik,0.65,0.89,0.74,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0
 Heat,NA,NA,1995,R,172,English,Michael Mann,Al Pacino,Robert De Niro,0.82,0.87,0.76,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0
 21,NA,NA,2008,PG-13,123,English,Robert Luketic,Jim Sturgess,Kate Bosworth,0.68,0.35,0.48,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0
@@ -21,7 +21,7 @@ Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhs
 Drive,NA,NA,2011,R,95,English,Nicholas Winding Refn,Ryan Gosling,Carey Mulligan,0.78,0.92,0.78,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
 Bad Boys,Bad Boys,NA,1995,R,119,English,Michael Bay,Will Smith,Martin Lawrence,0.69,0.42,0.41,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
 Straight Outta Compton,NA,NA,2015,R,167,English,F. Gary Gray,O'Shea Jackson Jr.,Corey Hawkins,0.78,0.89,0.72,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
-Ocean's Eleven,Ocean's,NA,2001,PG-13,130,English,Steven Soderbergh,George Clooney,Brad Pitt,0.77,0.82,0.74,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+Ocean's Eleven,Ocean's,Ocean's 11,2001,PG-13,130,English,Steven Soderbergh,George Clooney,Brad Pitt,0.77,0.82,0.74,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
 Ocean's Twelve,Ocean's,NA,2004,PG-13,125,English,Steven Soderbergh,George Clooney,Brad Pitt,0.65,0.55,0.58,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
 Ocean's Thirteen,Ocean's,NA,2007,PG-13,122,English,Steven Soderbergh,George Clooney,Brad Pitt,0.69,0.7,0.62,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
 I Am Sam,NA,NA,2001,PG-13,134,English,Jessie Nelson,Sean Penn,Michelle Pfeiffer,0.77,0.35,0.28,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
@@ -45,7 +45,7 @@ Moneyball,NA,NA,2011,PG-13,133,English,Bennett Miller,Brad Pitt,Robin Wright,0.7
 22 Jump Street,Jump Street,NA,2014,R,112,English,Phil Lord,Channing Tatum,Jonah Hill,0.7,0.85,0.71,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
 8 Mile,NA,NA,2002,R,118,English,Curtis Hanson,Eminem,Brittany Murphy,0.71,0.75,0.77,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0
 Captain Phillips,NA,NA,2013,PG-13,134,English,Paul Greengrass,Tom Hanks,Barkhad Abdi,0.78,0.93,0.82,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-12 Years A Slave,NA,NA,2013,R,134,English,Steve McQueen,Chiwetel Ejiofor,Michael Kenneth Williams,0.81,0.95,0.96,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+12 Years A Slave,NA,NA,2013,R,134,English,Steven Rodney McQueen,Chiwetel Ejiofor,Michael Kenneth Williams,0.81,0.95,0.96,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
 American Beauty,NA,NA,1999,R,122,English,Sam Mendes,Kevin Spacey,Annette Bening,0.83,0.87,0.84,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
 The Hurt Locker,NA,NA,2008,R,131,English,Kathryn Bigelow,Jeremy Renner,Anthony Mackie,0.76,0.97,0.95,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
 Pirates of the Caribbean: The Curse of the Black Pearl,Pirates of the Caribbean,NA,2003,PG-13,143,English,Gore Verbinski,Johnny Depp,Geoffrey Rush,0.8,0.79,0.63,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
@@ -79,19 +79,19 @@ Dunkirk,NA,NA,2017,PG-13,106,English,Christopher Nolan,Fionn Whitehead,Barry Keo
 Charlie and the Chocolate Factory,NA,Willy Wonka and the Chocolate Factory,2005,PG,115,English,Tim Burton,Johnny Depp,Freddie Highmore,0.66,0.83,0.72,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Star Wars: Episode VIII - The Last Jedi,Star Wars,NA,2017,PG-13,152,English,Rian Johnson,Daisy Ridley,John Boyega,0.7,0.9,0.84,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
 The Boss Baby,Boss Baby,NA,2017,PG,107,English,Tom McGrath,Alec Baldwin,Steve Buscemi,0.63,0.53,0.5,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-The Irony of Fate,NA,NA,1975,NA,192,Russian,Eldar Ryazanov,Liya Akhedzhakova,Aleksandr Belyavskiy,0.81,NA,NA,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+The Irony of Fate,The Irony of Fate,NA,1975,NA,192,Russian,Eldar Ryazanov,Liya Akhedzhakova,Aleksandr Belyavskiy,0.81,NA,NA,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0
 Star Wars: Episode I - The Phantom Menace,Star Wars,NA,1999,PG,136,English,George Lucas,Ewan McGregor,Liam Neeson,0.65,0.52,0.51,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
 Star Wars: Episode VII - The Force Awakens,Star Wars,NA,2015,PG-13,135,English,J.J. Abrams,Daisy Ridley,John Boyega,0.79,0.92,0.8,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
 The Secret Life of Walter Mitty,NA,NA,2013,PG,114,English,Ben Stiller,Ben Stiller,Kristen Wiig,0.73,0.52,0.54,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
 La La Land,NA,NA,2016,PG-13,128,English,Damien Chazelle,Ryan Gosling,Emma Stone,0.8,0.91,0.94,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0
-Hoop Dreams,NA,NA,1994,PG-13,175,English,Steve James,William Gates,Arthur Agee,0.83,0.98,0.98,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0
+Hoop Dreams,Hoop Dreams,NA,1994,PG-13,175,English,Steve James,William Gates,Arthur Agee,0.83,0.98,0.98,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0
 Manchester by the Sea,NA,NA,2016,R,137,English,Kenneth Lonergan,Casey Affleck,Michelle Williams,0.78,0.96,0.96,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
 Lagaan,NA,NA,2001,PG,225,Hindi,Ashutosh Gowariker,Aamir Khan,Raghuvir Yadav,0.81,0.95,0.84,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0
 The Hitman's Bodyguard,NA,NA,2017,R,118,English,Patrick Hughes,Ryan Reynolds,Samuel L. Jackson,0.69,0.43,0.47,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
 The Social Network,NA,NA,2010,PG-13,121,English,David Fincher,Jesse Eisenberg,Andrew Garfield,0.77,0.96,0.95,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
 AlphaGo,NA,NA,2017,NA,90,English,Greg Kohs,Ioannis Antonoglou,Lucas Baker,0.79,1,NA,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0
 "Three Billboards Outside Ebbing, Missouri",NA,NA,2017,R,116,English,Martin McDonagh,Frances McDormand,Woody Harrelson,0.82,0.9,0.88,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0
-In the Heat of the Night,NA,NA,1967,NA,110,English,Norman Jewison,Sidney Poitier,Rod Steiger,0.79,0.95,0.75,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0
+In the Heat of the Night,In the Heat of the Night,NA,1967,NA,110,English,Norman Jewison,Sidney Poitier,Rod Steiger,0.79,0.95,0.75,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0
 Furious 7,Fast and Furious,NA,2015,PG-13,137,English,James Wan,Vin Diesel,Paul Walker,0.71,0.82,0.67,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
 2 Guns,NA,NA,2013,R,109,English,Baltasar Kormakur,Denzel Washington,Mark Wahlberg,0.67,0.64,0.55,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
 The Theory of Everything,NA,NA,2014,PG-13,124,English,James Marsh,Eddie Redmayne,Felicity Jones,0.77,0.8,0.72,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
@@ -144,7 +144,7 @@ Free Solo,NA,NA,2018,PG-13,100,English,Jimmy Chin,Alex Honnold,Tommy Caldwell,0.
 The Dawn Wall,NA,NA,2017,NA,101,English,Josh Lowell,John Branch,Tommy Caldwell,0.81,1,0.81,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0
 Hot Fuzz,Three Flavours Cornetto,NA,2007,R,121,English,Edgar Wright,Simon Pegg,Nick Frost,0.78,0.91,0.81,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
 Bruce Almighty,Bruce Almighty,NA,2003,PG-13,101,English,Tom Shadyac,Jim Carrey,Jennifer Aniston,0.68,0.48,0.46,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
-Mean Girls,NA,NA,2004,PG-13,97,English,Mark Waters,Lindsay Lohan,Jonathan Bennet,0.7,0.84,0.66,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mean Girls,Mean Girls,NA,2004,PG-13,97,English,Mark Waters,Lindsay Lohan,Jonathan Bennet,0.7,0.84,0.66,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 American Factory,NA,NA,2019,PG-13,110,English,Steven Bognar,Junming Jimmy Wang,Robert Allen,0.74,0.96,0.86,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
 The Highwaymen,NA,NA,2019,R,132,English,John Lee Hancock,Kevin Costner,Woody Harrelson,0.69,0.57,0.58,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
 The Hangover,The Hangover,NA,2009,R,108,English,Todd Phillips,Zach Galifianakis,Bradley Cooper,0.77,0.78,0.73,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -157,15 +157,15 @@ The Imitation Game,NA,NA,2014,PG-13,114,English,Morten Tyldum,Benedict Cumberbat
 John Wick: Chapter 2,John Wick,NA,2017,R,122,English,Chad Stahelski,Keanu Reeves,Riccardo Scamarcio,0.75,0.89,0.75,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
 Aladdin,NA,Aladdin,2019,PG,128,English,Guy Ritchie,Will Smith,Mena Massoud,0.7,0.57,0.53,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 Big Hero 6,NA,NA,2014,PG,108,English,Don Hall,Ryan Potter,Scott Adsit,0.78,0.89,0.74,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Shaft,NA,NA,2000,R,99,English,John Singleton,Samuel L. Jackson,Vanessa Williams,0.59,0.67,0.5,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Shaft,Shaft,NA,2000,R,99,English,John Singleton,Samuel L. Jackson,Vanessa Williams,0.59,0.67,0.5,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
 LEGO Movie 2: The Second Part,LEGO,NA,2019,PG,107,English,Mike Mitchell,Chris Pratt,Elizabeth Banks,0.66,0.85,0.65,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 The Hateful Eight,NA,NA,2015,R,187,English,Quentin Tarantino,Samuel L. Jackson,Kurt Russell,0.78,0.75,0.68,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0
 Kill Bill: Volume 1,Kill Bill,NA,2003,R,112,English,Quentin Tarantino,Uma Thurman,David Carradine,0.81,0.85,0.69,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
 Tag,NA,NA,2018,R,105,English,Jeff Tomsic,Jeremy Renner,Ed Helms,0.65,0.56,0.56,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Pitch Perfect,NA,NA,2012,PG-13,112,English,Jason Moore,Anna Kendrick,Brittany Snow,0.72,0.8,0.66,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+Pitch Perfect,Pitch Perfect,NA,2012,PG-13,112,English,Jason Moore,Anna Kendrick,Brittany Snow,0.72,0.8,0.66,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0
 El Camino: A Breaking Bad Movie,NA,NA,2019,R,122,English,Vince Gilligan,Aaron Paul,Jonathan Banks,0.73,0.91,0.72,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
 Forrest Gump,NA,NA,1994,PG-13,142,English,Robert Zemeckis,Tom Hanks,Robin Wright,0.88,0.71,0.82,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
-My Big Fat Greek Wedding,NA,NA,2002,PG,96,English,Joel Zwick,Nia Vardalos,John Corbett,0.65,0.76,0.62,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+My Big Fat Greek Wedding,My Big Fat Greek Wedding,NA,2002,PG,96,English,Joel Zwick,Nia Vardalos,John Corbett,0.65,0.76,0.62,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0
 The Hustle,NA,Bedtime Story,2019,PG-13,94,English,Chris Addison,Anne Hathaway,Rebel Wilson,0.54,0.13,0.35,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
 The Big Short,NA,NA,2015,R,130,English,Adam McKay,Christian Bale,Steve Carell,0.78,0.88,0.81,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
 Creed,Rocky,NA,2015,PG-13,133,English,Ryan Coogler,Michael B. Jordan,Sylvester Stallone,0.76,0.95,0.82,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0
@@ -180,7 +180,7 @@ Uncut Gems,NA,NA,2019,R,135,English,Safdie Brothers,Adam Sandler,Julia Fox,0.74,
 Willy Wonka and the Chocolate Factory,NA,Willy Wonka and the Chocolate Factory,1971,G,89,English,Mel Stuart,Gene Wilder,Jack Albertson,0.78,0.9,0.67,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
 Ford v Ferrari,NA,NA,2019,PG-13,152,English,James Mangold,Matt Damon,Christian Bale,0.81,0.92,0.81,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0
 Mission: Impossible - Fallout,Mission: Impossible,NA,2018,PG-13,148,English,Christopher McQuarrie,Tom Cruise,Henry Cavill,0.77,0.97,0.86,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
-A Star is Born,NA,NA,2018,R,134,English,Bradley Cooper,Lady Gaga,Bradley Cooper,0.77,0.9,0.88,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0
+A Star is Born,NA,A Star is Born,2018,R,134,English,Bradley Cooper,Lady Gaga,Bradley Cooper,0.77,0.9,0.88,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0
 Salt,NA,NA,2010,PG-13,104,English,Phillip Noyce,Angelina Jolie,Liev Schreiber,0.64,0.62,0.65,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
 Fast & Furious Presents: Hobbs & Shaw,Fast and Furious,NA,2019,PG-13,136,English,David Leitch,Dwayne Johnson,Jason Statham,0.64,0.67,0.6,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
 Once Upon a Time... In Hollywood,NA,NA,2019,R,160,English,Quentin Tarantino,Leonardo DiCaprio,Brad Pitt,0.76,0.85,0.83,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
@@ -233,7 +233,7 @@ The Incredibles,The Incredibles,NA,2004,PG,116,English,Brad Bird,Craig T. Nelson
 Mad Max: Fury Road,Mad Max,NA,2015,R,120,English,George Miller,Tom Hardy,Charlize Theron,0.81,0.97,0.9,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
 American Hustle,NA,NA,2013,R,138,English,David O. Russell,Christian Bale,Amy Adams,0.72,0.92,0.9,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
 Bernie,NA,NA,2011,PG-13,104,English,Richard Linklater,Jack Black,Shirley MacLaine,0.68,0.88,0.75,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-Cheaper by the Dozen,NA,NA,2003,PG,106,English,Shawn Levy,Steve Martin,Bonnie Hunt,0.59,0.24,0.46,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cheaper by the Dozen,Cheaper by the Dozen,NA,2003,PG,106,English,Shawn Levy,Steve Martin,Bonnie Hunt,0.59,0.24,0.46,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 American Sniper,NA,NA,2014,R,134,English,Clint Eastwood,Bradley Cooper,Sienna Miller,0.73,0.72,0.72,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
 The Usual Suspects,NA,NA,1995,R,108,English,Bryan Singer,Kevin Spacey,Gabriel Byrne,0.85,0.89,0.77,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0
 Starsky & Hutch,NA,NA,2004,PG-13,101,English,Todd Phillips,Ben Stiller,Owen Wilson,0.61,0.62,0.55,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -250,12 +250,12 @@ Senna,NA,NA,2010,PG-13,162,English,Asif Kapadia,Ayrton Senna,Reginaldo Leme,0.85
 Judy,NA,NA,2019,PG-13,118,English,Rupert Goold,Renee Zellweger,Jessie Buckley,0.68,0.82,0.66,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0
 A Beautiful Day In The Neighborhood,NA,NA,2019,PG,109,English,Marielle Heller,Tom Hanks,Matthew Rhys,0.73,0.95,0.8,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
 My Spy,NA,NA,2020,PG-13,102,English,Peter Segal,Dave Bautista,Chloe Coleman,0.63,0.47,0.46,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Lilo & Stitch,NA,NA,2002,PG,85,English,Dead DeBlois,Daveigh Chase,Chris Sanders,0.72,0.86,0.73,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lilo & Stitch,Lilo & Stitch,NA,2002,PG,85,English,Dead DeBlois,Daveigh Chase,Chris Sanders,0.72,0.86,0.73,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Tropic Thunder,NA,NA,2008,R,121,English,Ben Stiller,Ben Stiller,Jack Black,0.7,0.82,0.71,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 The Farewell,NA,NA,2019,PG,100,Mandarin,Lulu Wang,Shuzhen Zhao,Awkwafina,0.76,0.98,0.89,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
 Fist of Fury,NA,NA,1972,R,108,Cantonese,Lo Wei,Bruce Lee,Nora Miao,0.74,0.81,0.68,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
-Super Size Me,NA,NA,2004,PG-13,100,English,Morgan Spurlock,Morgan Spurlock,Daryl Isaacs,0.72,0.92,0.73,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
-Anchorman: The Legend of Run Burgundy,NA,NA,2004,PG-13,104,English,Adam McKay,Will Ferrell,Christina Applegate,0.72,0.67,0.63,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Super Size Me,Super Size Me,NA,2004,PG-13,100,English,Morgan Spurlock,Morgan Spurlock,Daryl Isaacs,0.72,0.92,0.73,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Anchorman: The Legend of Run Burgundy,Anchorman,NA,2004,PG-13,104,English,Adam McKay,Will Ferrell,Christina Applegate,0.72,0.67,0.63,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 No Country for Old Men,NA,NA,2007,R,123,English,The Coen Brothers,Tommy Lee Jones,Javier Bardem,0.81,0.93,0.91,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
 Mrs. Doubtfire,NA,NA,1993,PG-13,125,English,Chris Columbus,Robin Williams,Sally Field,0.7,0.71,0.53,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
 Time is Illmatic,NA,NA,2014,NA,74,English,One9,Nas,Cornel West,0.71,0.98,0.72,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
@@ -294,10 +294,10 @@ BlacKkKlansman,NA,NA,2018,R,135,English,Spike Lee,John David Washington,Adam Dri
 Green Book,NA,NA,2018,PG-13,130,English,Peter Farrelly,Viggo Mortensen,Mahershala Ali,0.82,0.77,0.69,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
 Fargo,NA,NA,1996,R,98,English,The Coen Brothers,Frances McDormand,William H. Macy,0.81,0.94,0.85,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0
 The Big Lebowski,NA,NA,1998,R,117,English,The Coen Brothers,Jeff Bridges,John Goodman,0.81,0.83,0.71,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-True Grit,NA,NA,2010,PG-13,110,English,The Coen Brothers,Jeff Bridges,Matt Damon,0.76,0.96,0.8,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+True Grit,NA,True Grit,2010,PG-13,110,English,The Coen Brothers,Jeff Bridges,Matt Damon,0.76,0.96,0.8,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
 "O Brother, Where Art Thou?",NA,NA,2000,PG-13,107,English,The Coen Brothers,George Clooney,John Turturro,0.77,0.77,0.69,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
 Barton Fink,NA,NA,1991,R,116,English,The Coen Brothers,John Turturro,John Goodman,0.77,0.9,0.69,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0
-True Grit,NA,NA,1969,G,128,English,Henry Hathaway,John Wayne,Glen Campbell,0.74,0.89,0.83,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+True Grit,NA,True Grit,1969,G,128,English,Henry Hathaway,John Wayne,Glen Campbell,0.74,0.89,0.83,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
 Aladdin,NA,Aladdin,1992,G,90,English,Ron Clements,Scott Weinger,Robin Williams,0.8,0.95,0.86,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Samsara,NA,NA,2011,PG-13,102,NA,Ron Fricke,Balinese Tari Legong Dancers,Ni Made Megahadi Pratiwi,0.85,0.76,0.65,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
 Raising Arizona,NA,NA,1987,PG-13,94,English,The Coen Brothers,Nicolas Cage,Holly Hunter,0.73,0.91,0.68,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -368,7 +368,7 @@ You Only Live Twice,James Bond,NA,1967,PG,117,English,Lewis Gilbert,Sean Connery
 Elf,NA,NA,2003,PG,97,English,Jon Favreau,Will Ferrell,James Caan,0.7,0.84,0.64,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Chef,NA,NA,2014,R,114,English,Jon Favreau,Jon Favreau,Sofia Vergara,0.73,0.87,0.68,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
 A Fish Called Wanda,NA,NA,1988,R,108,English,Charles Crichton,John Cleese,Jamie Lee Curtis,0.75,0.95,0.8,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-The Lion King,NA,The Lion King,1994,G,88,English,Roger Allers,Jonathan Taylor Thomas,Matthew Broderick,0.85,0.93,0.88,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+The Lion King,The Lion King,The Lion King,1994,G,88,English,Roger Allers,Jonathan Taylor Thomas,Matthew Broderick,0.85,0.93,0.88,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
 The Lion King,NA,The Lion King,2019,PG,118,English,Jon Favreau,Donald Glover,Seth Rogen,0.69,0.52,0.55,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
 Once Upon a Time in the West,Once Upon a Time,NA,1968,PG-13,165,English,Sergio Leone,Claudia Cardinale,Henry Fonda,0.85,0.95,0.8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
 Megamind,NA,NA,2010,PG,95,English,Tom McGrath,Will Ferrell,Tina Fey,0.72,0.73,0.63,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -378,7 +378,7 @@ Full Metal Jacket,NA,NA,1987,R,116,English,Stanley Kubrick,Matthew Modine,Adam B
 Soul,NA,NA,2020,PG,100,English,Pete Docter,Jamie Foxx,Tina Fey,0.82,0.95,0.85,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Le Placard,NA,NA,2001,R,84,French,Francis Veber,Daniel Auteuil,Gerard Depardieu,0.7,0.85,0.72,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Let's Get Lost,NA,NA,1988,NA,120,English,Bruce Weber,Chet Baker,Carol Baker,0.79,0.96,0.85,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
-The Color of Money,NA,NA,1986,R,119,English,Martin Scorsese,Paul Newman,Tom Cruise,0.7,0.89,0.77,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+The Color of Money,The Hustler,NA,1986,R,119,English,Martin Scorsese,Paul Newman,Tom Cruise,0.7,0.89,0.77,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0
 Antz,NA,NA,1998,PG,83,English,Eric Darnell,Woody Allen,Dan Aykroyd,0.65,0.92,0.72,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 A Bug's Life,NA,NA,1998,G,95,English,John Lasseter,Dave Foley,Kevin Spacey,0.72,0.92,0.77,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 My Octopus Teacher,NA,NA,2020,G,85,English,Pippa Ehrlich,Craig Foster,Tom Foster,0.83,1,NA,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
@@ -417,16 +417,16 @@ Jiro Dreams of Sushi,NA,NA,2011,PG,81,Japanese,David Gelb,Jiro Ono,Yoshikazu Ono
 The Assistant,NA,NA,2019,R,87,English,Kitty Green,Julia Garner,Matthew Macfadyen,0.62,0.92,0.79,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
 Lady Bird,NA,NA,2017,R,94,English,Greta Gerwig,Saoirse Ronan,Laurie Metcalf,0.74,0.99,0.94,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
 How to Train Your Dragon 2,How to Train Your Dragon,NA,2014,PG,102,English,Dean DeBlois,Jay Baruchel,Cate Blanchett,0.78,0.91,0.76,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Mirai no Mirai,NA,NA,2018,PG,98,Japanese,Mamoru Hosoda,Gen Hoshino,Kumiko Aso,0.7,0.9,0.81,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Mirai,NA,NA,2018,PG,98,Japanese,Mamoru Hosoda,Gen Hoshino,Kumiko Aso,0.7,0.9,0.81,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 Sound of Metal,NA,NA,2019,R,120,English,Darius Marder,Riz Ahmed,Olivia Cooke,0.78,0.96,0.81,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0
 How to Train Your Dragon: The Hidden World,How to Train Your Dragon,NA,2019,PG,104,English,Dead DeBlois,Jay Baruchel,America Ferrera,0.75,0.9,0.71,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 The Untouchables,NA,NA,1987,R,119,English,Brian De Palma,Kevin Costner,Sean Connery,0.79,0.83,0.79,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0
 Amadeus,NA,NA,1984,R,160,English,Milos Forman,F. Murray Abraham,Tom Hulce,0.83,0.93,0.88,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0
-Richie Rich,NA,NA,1994,PG,95,English,Donald Petrie,Macaulay Culkin,John Larroquette,0.54,0.24,0.49,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Richie Rich,Richie Rich,NA,1994,PG,95,English,Donald Petrie,Macaulay Culkin,John Larroquette,0.54,0.24,0.49,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Kung Fu Panda,Kung Fu Panda,NA,2008,PG,92,English,John Stevenson,Jack Black,Dustin Hoffman,0.75,0.87,0.74,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Kung Fu Panda 2,Kung Fu Panda,NA,2011,PG,90,English,Jennifer Yuh Nelson,Jack Black,Angelina Jolie,0.72,0.81,0.67,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Kung Fu Panda 3,Kung Fu Panda,NA,2016,PG,95,English,Jennifer Yuh Nelson,Jack Black,Bryan Cranston,0.71,0.87,0.66,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Tonari no Totoro,NA,NA,1988,G,86,Japanese,Hayao Miyazaki,Noriko Hidaka,Chika Sakamoto,0.82,0.94,0.86,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+My Neighbor Totoro,NA,NA,1988,G,86,Japanese,Hayao Miyazaki,Noriko Hidaka,Chika Sakamoto,0.82,0.94,0.86,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 The Prestige,NA,NA,2006,PG-13,130,English,Christopher Nolan,Hugh Jackman,Christian Bale,0.85,0.76,0.66,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0
 Weekend at Bernie's,NA,NA,1989,PG-13,97,English,Ted Kotcheff,Andrew McCarthy,Jonathan Silverman,0.64,0.54,0.32,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 The Dig,NA,NA,2021,PG-13,112,English,Simon Stone,Carey Mulligan,Ralph Fiennes,0.72,0.87,0.73,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
@@ -478,17 +478,17 @@ Flight,NA,NA,2012,R,138,English,Robert Zemeckis,Denzel Washington,Don Cheadle,0.
 Apollo 13,NA,NA,1995,PG,140,English,Ron Howard,Tom Hanks,Bill Paxton,0.76,0.96,0.77,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
 The Shape of Water,NA,NA,2017,R,123,English,Guillermo del Toro,Sally Hawkins,Michael Shannon,0.73,0.92,0.87,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0
 Mr. Nobody,NA,NA,2009,R,141,English,Jaco Van Dormael,Jared Leto,Sarah Polley,0.78,0.68,0.63,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0
-The Emperor's New Groove,NA,NA,2000,G,78,English,Mark Dindal,David Spade,John Goodman,0.74,0.85,0.7,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+The Emperor's New Groove,The Emperor's New Groove,NA,2000,G,78,English,Mark Dindal,David Spade,John Goodman,0.74,0.85,0.7,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Beanpole,NA,NA,2019,NA,130,Russian,Kantemir Balagov,Viktoria Miroshnichenko,Vasilisa Perelygina,0.71,0.92,0.84,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
 Moonwalkers,NA,NA,2015,R,96,English,Antoine Bardou-Jacquet,Ron Perlman,Rupert Grint,0.61,0.42,NA,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Road to El Dorado,NA,NA,2000,PG,89,English,Bibo Bergeron,Kevin Kline,Kenneth Branagh,0.69,0.48,0.51,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Gone Girl,NA,NA,2014,R,149,English,David Fincher,Ben Affleck,Rosamund Pike,0.81,0.87,0.79,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0
-The Italian Job,NA,NA,1969,G,99,English,Peter Collinson,Michael Caine,Noel Coward,0.73,0.83,0.7,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+The Italian Job,NA,The Italian Job,1969,G,99,English,Peter Collinson,Michael Caine,Noel Coward,0.73,0.83,0.7,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
 The Diamond Arm,NA,NA,1969,PG-13,100,Russian,Leonid Gaidai,Yuriy Nikulin,Andrey Mironov,0.85,0.87,NA,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
 Scarface,NA,Scarface,1983,R,170,English,Brian De Palma,Al Pacino,Steven Bauer,0.83,0.82,0.65,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
 Another Round,NA,NA,2020,NA,117,Danish,Thomas Vinterberg,Mads Mikkelsen,Thomas Bo Larsen,0.78,0.92,0.81,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
 2001: A Space Odyssey,2001: A Space Odyssey,NA,1968,G,149,English,Stanley Kubrick,Keir Dullea,Gary Lockwood,0.83,0.92,0.84,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
-Ferdinanr,NA,NA,2017,PG,108,English,Carlos Saldanha,John Cena,Kate McKinnon,0.67,0.72,0.58,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ferdinand,NA,NA,2017,PG,108,English,Carlos Saldanha,John Cena,Kate McKinnon,0.67,0.72,0.58,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Dick Johnson Is Dead,NA,NA,2020,PG-13,89,English,Kirsten Johnson,Dick Johnson,Kirsten Johnson,0.75,1,0.89,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
 I Care a Lot,NA,NA,2020,R,118,English,J Blakeson,Rosamund Pike,Peter Dinklage,0.62,0.81,0.66,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0
 Missing Link,NA,NA,2019,PG,93,English,Chris Butler,Zach Galifianakis,Hugh Jackman,0.67,0.88,0.68,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -500,3 +500,32 @@ Interstellar,NA,NA,2014,PG-13,169,English,Christopher Nolan,Matthew McConaughey,
 Field of Dreams,NA,NA,1989,PG,107,English,Phil Alden Robinson,Kevin Costner,Amy Madigan,0.75,0.87,0.57,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
 Lolita,NA,Lolita,1962,NA,153,English,Stanley Kubrick,James Mason,Shelley Winters,0.76,0.91,0.79,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0
 Men in Black: International,Men in Black,NA,2019,PG-13,114,English,F. Gary Gray,Chris Hemsworth,Tessa Thompson,0.56,0.23,0.38,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+The United States vs. Billie Holiday,NA,NA,2021,R,130,English,Lee Daniels,Andra Day,Trevante Rhodes,0.64,0.55,0.53,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+Ma Rainey's Black Bottom,NA,NA,2020,R,94,English,George C. Wolfe,Viola Davis,Chadwick Boseman,0.71,0.98,0.87,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+Da 5 Bloods,NA,NA,2020,R,154,English,Spike Lee,Delroy Lindo,Jonathan Majors,0.65,0.92,0.82,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+One Night in Miami,NA,NA,2020,R,114,English,Regina King,Kingsley Ben-Adir,Eli Goree,0.72,0.98,0.83,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Judas and the Black Messiah,NA,NA,2021,R,126,English,Shaka King,Daniel Kaluuya,LaKeith Stanfield,0.77,0.96,0.86,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+Airplane!,Airplane!,NA,1980,PG,88,English,Jim Abrahams,Robert Hays,Julie Hagerty,0.77,0.97,0.78,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sorry to Bother You,NA,NA,2018,R,112,English,Boots Reily,LaKeith Stanfield,Tessa Thompson,0.69,0.93,0.8,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0
+The Thomas Crown Affair,NA,The Thomas Crown Affair,1968,NA,102,English,Norman Jewison,Steve McQueen,Faye Dunaway,0.7,0.77,0.66,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0
+Airplane II: The Sequel,Airplane!,NA,1982,PG,85,English,Ken Finkleman,Robert Hays,Julie Hagerty,0.62,0.42,0.48,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Miss Sloane,NA,NA,2016,R,132,English,John Madden,Jessica Chastain,Mark Strong,0.75,0.77,0.64,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+Kick-Ass 2,Kick-Ass,NA,2013,R,103,English,Jeff Wadlow,Aaron Taylor-Johnson,Christopher Mintz-Plasse,0.65,0.32,0.41,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Songs My Brothers Taught Me,NA,NA,2015,NA,98,English,Chloe Zhao,John Reddy,Jashaun St. John,0.69,0.91,0.63,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Killing Them Softly,NA,NA,2012,R,97,English,Andrew Dominik,Brad Pitt,Scoot McNairy,0.62,0.71,0.64,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0
+Training Day,NA,NA,2001,R,122,English,Antoine Fuqua,Denzel Washington,Ethan Hawke,0.77,0.73,0.69,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0
+"Good Morning, Vietnam",NA,NA,1987,R,121,English,Barry Levinson,Robin Williams,Forest Whitaker,0.73,0.9,0.67,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Bronson,NA,NA,2008,R,92,English,Nicolas Winding Refn,Tom Hardy,Kelly Adams,0.71,0.76,0.71,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+A Private War,NA,NA,2018,R,110,English,Matthew Heineman,Rosamund Pike,Jamie Dornan,0.67,0.88,0.75,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Beirut,NA,NA,2018,R,109,English,Brad Anderson,Jon Hamm,Rosamund Pike,0.64,0.82,0.69,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+The Bank Job,NA,NA,2008,R,111,English,Roger Donaldson,Jason Statham,Saffron Burrows,0.72,0.8,0.69,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0
+The Terminator,Terminator,NA,1984,R,107,English,James Cameron,Arnold Schwarzenegger,Michael Biehn,0.8,1,0.84,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Get Smart,NA,NA,2008,PG-13,110,English,Peter Segal,Steve Carell,Anne Hathaway,0.65,0.51,0.54,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Trumbo,NA,NA,2015,R,124,English,Jay Roach,Bryan Cranston,Helen Mirren,0.75,0.74,0.6,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+Trouble with the Curve,NA,NA,2012,PG-13,111,English,Robert Lorenz,Clint Eastwood,Amy Adams,0.68,0.51,0.58,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+Anchorman 2: The Legend Continues,Anchorman,NA,2013,PG-13,119,English,Adam McKay,Will Ferrell,Steve Carell,0.63,0.75,0.61,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+The White Tiger,NA,NA,2021,R,125,English,Ramin Bahrani,Adarsh Gourav,Rajkummar Rao,0.72,0.92,0.76,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+The Italian Job,NA,The Italian Job,2003,PG-13,111,English,F. Gary Gray,Mark Wahlberg,Charlize Theron,0.7,0.73,0.68,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+Players,NA,The Italian Job,2012,NA,163,Hindi,Abbas Mustan,Vinod Khanna,Abhishek Bachchan,0.41,0.43,NA,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+Midnight Cowboy,NA,NA,1969,R,113,English,John Schlesinger,Dustin Hoffman,Jon Voight,0.78,0.88,0.79,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Breathless,NA,NA,1960,NA,90,French,Jean-Luc Godard,Jean-Paul Belmondo,Jean Seberg,0.78,0.97,NA,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
