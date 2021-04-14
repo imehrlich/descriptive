@@ -13,7 +13,7 @@ The Matrix Reloaded,The Matrix,NA,2003,R,138,English,The Wachowskis,Keanu Reeves
 The Matrix Revolutions,The Matrix,NA,2003,R,129,English,The Wachowskis,Keanu Reeves,Laurence Fishburne,0.68,0.35,0.47,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
 Everybody Loves Somebody,NA,NA,2017,PG-13,102,Spanish,Catalina Aguilar Mastretta,Karla Souza,Jose Maria Yazpik,0.65,0.89,0.74,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0
 Heat,NA,NA,1995,R,172,English,Michael Mann,Al Pacino,Robert De Niro,0.82,0.87,0.76,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0
-21,NA,NA,2008,PG-13,123,English,Robert Luketic,Jim Sturgess,Kate Bosworth,0.68,0.35,0.48,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0
+21,NA,NA,2008,PG-13,123,English,Robert Luketic,Jim Sturgess,Kate Bosworth,0.68,0.35,0.48,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
 Concussion,NA,NA,2015,PG-13,123,English,Peter Landesman,Will Smith,Alec Baldwin,0.71,0.59,0.55,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0
 Mad Max,Mad Max,NA,1979,R,95,English,George Miller,Mel Gibson,Joanne Samuel,0.69,0.9,0.73,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
 Rush Hour,Rush Hour,NA,1998,PG-13,98,English,Brett Ratner,Jackie Chan,Chris Tucker,0.7,0.61,0.6,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -259,7 +259,7 @@ Anchorman: The Legend of Run Burgundy,Anchorman,NA,2004,PG-13,104,English,Adam M
 No Country for Old Men,NA,NA,2007,R,123,English,The Coen Brothers,Tommy Lee Jones,Javier Bardem,0.81,0.93,0.91,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
 Mrs. Doubtfire,NA,NA,1993,PG-13,125,English,Chris Columbus,Robin Williams,Sally Field,0.7,0.71,0.53,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
 Time is Illmatic,NA,NA,2014,NA,74,English,One9,Nas,Cornel West,0.71,0.98,0.72,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
-Shattered Glass,NA,NA,2003,PG-13,99,English,Billy Ray,Hayden Christensen,Chloe Sevigny,0.71,0.92,0.73,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+Shattered Glass,NA,NA,2003,PG-13,99,English,Billy Ray,Hayden Christensen,Chloe Sevigny,0.71,0.92,0.73,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
 Rango,NA,NA,2011,PG,111,English,Gore Verbinski,Johnny Depp,Isla Fisher,0.72,0.88,0.75,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
 Mud,NA,NA,2012,PG-13,135,English,Jeff Nichols,Matthew McConaughey,Tye Sheridan,0.74,0.97,0.76,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
 Three Identical Strangers,NA,NA,2018,PG-13,97,English,Tim Wardle,Robert Shafran,Michael Domnitz,0.77,0.97,0.81,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
@@ -529,3 +529,32 @@ The Italian Job,NA,The Italian Job,2003,PG-13,111,English,F. Gary Gray,Mark Wahl
 Players,NA,The Italian Job,2012,NA,163,Hindi,Abbas Mustan,Vinod Khanna,Abhishek Bachchan,0.41,0.43,NA,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
 Midnight Cowboy,NA,NA,1969,R,113,English,John Schlesinger,Dustin Hoffman,Jon Voight,0.78,0.88,0.79,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
 Breathless,NA,NA,1960,NA,90,French,Jean-Luc Godard,Jean-Paul Belmondo,Jean Seberg,0.78,0.97,NA,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+Roman Holiday,NA,NA,1953,NA,118,English,William Wyler,Gregory Peck,Audrey Hepburn,0.8,0.97,0.78,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Good Time,NA,NA,2017,R,102,English,Safdie Brothers,Robert Pattinson,Benny Safdie,0.74,0.92,0.8,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0
+Heaven Knows What,NA,NA,2014,R,97,English,Safdie Brothers,Arielle Holmes,Caleb Landry Jones,0.68,0.87,0.75,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+Casino Royale,James Bond,NA,2006,PG-13,144,English,Martin Campbell,Daniel Craig,Eva Green,0.8,0.94,0.8,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Operation Varsity Blues: The College Admissions Scandal,NA,NA,2021,R,99,English,Chris Smith,Matthew Modine,Roger Rignack,0.71,0.86,0.71,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+Austin Powers: International Man of Mystery,Austin Powers,NA,1997,PG-13,89,English,Jay Roach,Mike Myers,Elizabeth Hurley,0.7,0.71,0.51,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sicario,Sicario,NA,2015,R,121,English,Denis Villeneuve,Emily Blunt,Benicio Del Toro,0.76,0.92,0.82,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+Sicario: Day of the Soldado,Sicario,NA,2018,R,122,English,Stefano Sollima,Benicio Del Toro,Josh Brolin,0.71,0.63,0.61,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+Shaft,Shaft,NA,1971,R,100,English,Gordon Parks,Richard Roundtree,Moses Gunn,0.66,0.88,0.66,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+Mississippi Burning,NA,NA,1988,R,128,English,Alan Parker,Gene Hackman,Willem Dafoe,0.78,0.84,0.65,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0
+Hot Rod,NA,NA,2007,PG-13,88,English,Akiva Schaffer,Andy Samberg,Jorma Taccone,0.67,0.39,0.43,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+The Other Guys,NA,NA,2010,PG-13,107,English,Adam McKay,Will Ferrell,Mark Wahlberg,0.67,0.78,0.64,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Office Space,NA,NA,1999,R,89,English,Mike Judge,Ron Livingston,Jennifer Aniston,0.77,0.8,0.68,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Vertigo,NA,NA,1958,PG,128,English,Alfred Hitchcock,James Stewart,Kim Novak,0.83,0.94,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0
+Cape Fear,NA,Cape Fear,1991,R,128,English,Martin Scorsese,Robert De Niro,Nick Nolte,0.73,0.75,0.73,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+Cape Fear,NA,Cape Fear,1962,NA,106,English,J. Lee Thompson,Gregory Peck,Robert Mitchum,0.77,0.96,0.76,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+The Boondock Saints,The Boondock Saints,NA,1999,R,108,English,Troy Duffy,Willem Dafoe,Sean Patrick Flanery,0.78,0.28,0.44,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+Blue Ruin,NA,NA,2013,R,90,English,Jeremy Saulnier,Macon Blair,Devin Ratray,0.71,0.96,0.78,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0
+Mr. Brooks,NA,NA,2007,R,120,English,Bruce A. Evans,Kevin Costner,Demi Moore,0.73,0.55,0.45,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0
+My Cousin Vinny,NA,NA,1992,R,120,English,Jonathan Lynn,Joe Pesci,Ralph Macchio,0.76,0.86,0.68,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dog Day Afternoon,NA,NA,1975,R,125,English,Sidney Lumet,Al Pacino,John Cazale,0.8,0.96,0.86,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+Legally Blonde,Legally Blonde,NA,2001,PG-13,96,English,Robert Luketic,Reese Witherspoon,Luke Wilson,0.63,0.7,0.59,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Death Proof,NA,NA,2007,R,127,English,Quentin Tarantino,Kurt Russell,Zoe Bell,0.7,0.65,NA,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Cool Hand Luke,NA,NA,1967,PG,127,English,Stuart Rosenberg,Paul Newman,George Kennedy,0.81,1,0.92,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Hail, Caesar!",NA,NA,2016,PG-13,106,English,The Coen Brothers,Josh Brolin,George Clooney,0.63,0.85,0.72,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Crocodile Dundee,Crocodile Dundee,NA,1986,PG-13,97,English,Peter Faiman,Paul Hogan,Linda Kozlowski,0.66,0.88,0.62,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Napoleon Dynamite,NA,NA,2004,PG,96,English,Jared Hess,Jon Heder,Jon Gries,0.69,0.72,0.64,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+The Trip,The Trip,NA,2010,NA,112,English,Michael Winterbottom,Steve Coogan,Rob Brydon,0.7,0.89,NA,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Chappaquiddick,NA,NA,2017,PG-13,106,English,John Curran,Jason Clarke,Kate Mara,0.64,0.81,0.67,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0

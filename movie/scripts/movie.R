@@ -52,12 +52,12 @@ plotRemakesRating(remakesNames, "movie/figures/remakesRatingSelect.png")
 
 
 ### INDEX ###
-actor <- "Dan Aykroyd";  findActor(actor)[,1:13]
-director <- "F. Gary Gray"; findDirector(director)[,1:13]
-genre <- "sport"; findGenre(genre)[,1:13]
+actor <- "Jon Voight";  findActor(actor)[,1:13]
+director <- "Denis Villeneuve"; findDirector(director)[,1:13]
+genre <- "history"; findGenre(genre)[,1:13]
 lang <- "Spanish"; findLanguage(lang)[,1:13]
-title <- "Die Another Day";  findMovie(title)[,1:13]
-remakes <- "Bedtime Story"; findRemakes(remakes)[,1:13]
-series <- "Men in Black"; findSeries(series)[,1:13]
-year <- 1962;  findYear(year)[,1:13]
+title <- "Shattered Glass";  findMovie(title)[,1:13]
+remakes <- "The Italian Job"; findRemakes(remakes)[,1:13]
+series <- "James Bond"; findSeries(series)[,1:13]
+year <- 2021;  findYear(year)[,1:13]
 n <- 10; lastN(n)[,1:13]
