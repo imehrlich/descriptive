@@ -276,7 +276,7 @@ Eddie the Eagle,NA,NA,2015,PG-13,106,English,Dexter Fletcher,Taron Egerton,Hugh 
 Limitless,NA,NA,2011,PG-13,105,English,Neil Burger,Bradley Cooper,Abbie Cornish,0.74,0.69,0.59,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0
 The King's Speech,NA,NA,2010,R,118,English,Tom Hooper,Colin Firth,Geoffrey Rush,0.8,0.94,0.88,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
 Mystic River,NA,NA,2003,R,138,English,Clint Eastwood,Sean Penn,Tim Robbins,0.79,0.88,0.84,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0
-Arctic,NA,NA,2019,PG-13,108,English,Joe Penna,Mads Mikkelsen,Maria Thelma Smaradottir,0.68,0.9,0.71,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Arctic,NA,NA,2018,PG-13,108,English,Joe Penna,Mads Mikkelsen,Maria Thelma Smaradottir,0.68,0.9,0.71,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
 Star Wars Episode VI - Return of the Jedi,Star Wars,NA,1983,PG,131,English,Richard Marquand,Mark Hamill,Harrison Ford,0.83,0.82,0.58,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
 Coach Carter,NA,NA,2005,PG-13,136,English,Thomas Carter,Samuel L. Jackson,Rob Brown,0.73,0.64,0.57,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0
 Mulan,Mulan,Mulan,1998,G,88,English,Tony Bancroft,Ming-Na Wen,Eddie Murphy,0.76,0.86,0.71,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -558,3 +558,6 @@ Crocodile Dundee,Crocodile Dundee,NA,1986,PG-13,97,English,Peter Faiman,Paul Hog
 Napoleon Dynamite,NA,NA,2004,PG,96,English,Jared Hess,Jon Heder,Jon Gries,0.69,0.72,0.64,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 The Trip,The Trip,NA,2010,NA,112,English,Michael Winterbottom,Steve Coogan,Rob Brydon,0.7,0.89,NA,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
 Chappaquiddick,NA,NA,2017,PG-13,106,English,John Curran,Jason Clarke,Kate Mara,0.64,0.81,0.67,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+Bonnie and Clyde,NA,NA,1967,R,111,English,Arthur Penn,Warren Beatty,Faye Dunaway,0.78,0.88,0.86,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Spirited Away,NA,NA,2001,PG,125,Japanese,Hayao Miyazaki,Rumi Hiiragi,Miyu Irino,0.86,0.97,0.96,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Saving Private Ryan,NA,NA,1998,R,169,English,Steven Spielberg,Tom Hanks,Tom Sizemore,0.86,0.93,0.91,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
