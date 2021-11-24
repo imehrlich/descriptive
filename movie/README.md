@@ -1,5 +1,5 @@
 # movie
 
-descriptives of movies I have seen (since 2017)
+data and descriptives of movies I've seen since Edgar Wright's Baby Driver
 
-data adapted from the films and IMDb
+data adapted from IMDb and the relevant films
