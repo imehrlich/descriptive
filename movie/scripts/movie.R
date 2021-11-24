@@ -8,6 +8,7 @@ movie <- read.csv("movie/data/movie.csv", header = TRUE)
 
 
 
+
 ### GENERAL PLOTS ###
 plotGenre()
 plotLanguage()
@@ -52,12 +53,13 @@ plotRemakesRating(remakesNames, "movie/figures/remakesRatingSelect.png")
 
 
 ### INDEX ###
-actor <- "Jon Voight";  findActor(actor)[,1:13]
-director <- "Denis Villeneuve"; findDirector(director)[,1:13]
-genre <- "history"; findGenre(genre)[,1:13]
-lang <- "Spanish"; findLanguage(lang)[,1:13]
-title <- "Shattered Glass";  findMovie(title)[,1:13]
-remakes <- "The Italian Job"; findRemakes(remakes)[,1:13]
-series <- "James Bond"; findSeries(series)[,1:13]
-year <- 2021;  findYear(year)[,1:13]
+actor <- "John Candy";  findActor(actor)[,1:13]
+director <- "John Glen"; findDirector(director)[,1:13]
+genre <- "comedy"; findGenre(genre)[,1:13]
+lang <- "French"; findLanguage(lang)[,1:13]
+title <- "Legend";  findMovie(title)[,1:13]
+remakes <- "The Thomas Crown Affair"; findRemakes(remakes)[,1:13]
+series <- "Once Upon a Time"; findSeries(series)[,1:13]
+year <- 1999;  findYear(year)[,1:13]
 n <- 10; lastN(n)[,1:13]
+
